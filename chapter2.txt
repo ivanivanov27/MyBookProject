@@ -1,1 +1,3 @@
-This is seconde chapter.
+This is second chapter.
+
+This is new txt to chapter2 branch.
